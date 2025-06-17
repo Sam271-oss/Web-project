@@ -98,8 +98,8 @@ img{
     right: 100px;
 }
 
-nav{
-    position:fixed;
+header{
+    position:sticky;
     top: 0px;
 background-color:#0f2027 ;
     z-index: 10;
